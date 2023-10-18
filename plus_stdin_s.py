@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Masato Aita
+
 import sys
 
 ans = 0
