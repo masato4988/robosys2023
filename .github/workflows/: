@@ -1,9 +1,0 @@
-neme: test
-on: push
-jobs:
-        test:
-                rune-on: ubuntu-latest
-                steps:
-                - uses: atctions/checkout@v3
-                - name: All test
-                  run: bash -xv ./test.bash
