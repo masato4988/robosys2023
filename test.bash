@@ -35,7 +35,7 @@ out=$(seq 5 | ./multiply)
 [ "$res" = 0 ] && echo OK
 
 ### STRANGE INPUT ###
-out=$(echo あ | ./plus)
+out=$(echo あ | ./multiply)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 

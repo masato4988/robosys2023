@@ -1,5 +1,6 @@
 # robosys2023
-千葉工業大学ロボットシステム学_2023の講義内で作成したリポジトリです．
+* 千葉工業大学ロボットシステム学_2023の講義内で作成したリポジトリです．
+* このリポジトリには，入力した複数の数値の合計値を出力するplusコマンドと，入力した複数の数値すべての積を出力するmultiplyがあります．
 
 [![test](https://github.com/masato4988/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/masato4988/robosys2023/actions/workflows/test.yml)
 ## 利用方法
@@ -57,5 +58,5 @@ $ ./plus < num
 ## 著作権・ライセンス
 * このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布および使用が許可されます。
 * このパッケージの一部コードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-  * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+  * [ryuichiueda/my_slides robosys_2022/lesson4](https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/)
 * © 2023 Masato Aita
